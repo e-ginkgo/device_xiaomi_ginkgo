@@ -14,4 +14,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.stats.test=0 \
     persist.vendor.camera.awb.sync=2 \
     persist.vendor.camera.af.sync=2 \
-    persist.vendor.dualcam.lpm.enable=0
+    persist.vendor.dualcam.lpm.enable=0 \
+    persist.vendor.camera.expose.aux=1 \
+    vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.xiaomi.cameratools,com.factory.mmigroup
