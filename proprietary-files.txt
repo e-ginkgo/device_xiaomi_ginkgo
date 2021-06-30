@@ -1252,9 +1252,6 @@ vendor/lib/libmmcamera_ginkgo_s5kgm1_ofilm_ii_eeprom.so
 vendor/lib/libmmcamera_ginkgo_s5kgm1_sunny_i.so
 vendor/lib/libmmcamera_ginkgo_s5kgm1_sunny_i_eeprom.so
 
-# Camera service
-lib/libcameraservice.so
-
 # Consumerir
 vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.trinket.so
 
